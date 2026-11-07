@@ -1,0 +1,6 @@
+{
+    "object_detection": "cat:cs.CV AND all:\"object detection\" AND submittedDate:[202301010000 TO 202610312359]",
+    "image_segmentation": "cat:cs.CV AND all:\"image segmentation\" AND submittedDate:[202301010000 TO 202610312359]",
+    "medical_imaging": "cat:cs.CV AND all:\"medical image analysis\" AND submittedDate:[202301010000 TO 202610312359]",
+    "pose_estimation": "cat:cs.CV AND all:\"human pose estimation\" AND submittedDate:[202301010000 TO 202610312359]"
+}

@@ -1,0 +1,9 @@
+streamlit
+rank-bm25
+sentence-transformers
+textblob
+pandas
+numpy
+scikit-learn
+pymupdf
+arxiv
